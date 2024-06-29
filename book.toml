@@ -1,0 +1,6 @@
+[book]
+authors = ["foldcf"]
+language = "en"
+multilingual = false
+src = "src"
+title = "PAPER EXPERIMENTS"

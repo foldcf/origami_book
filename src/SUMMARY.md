@@ -1,5 +1,5 @@
 # Introduction
-- [The author](the_author.md)
+- [The author](./foldcf/the_author.md)
 - [What I hope for](./foldcf/what_I_hope_for.md)
 - [Copyright](./foldcf/copyright.md)
 # Maths

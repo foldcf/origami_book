@@ -1,3 +1,5 @@
+# THE AUTHOR
+
 Michael Muchai (b. 1999)
 From Nakuru, Kenya
 

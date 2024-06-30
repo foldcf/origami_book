@@ -1,2 +1,2 @@
 # origami_book
-origami book by foldcf
+A simple origami book by Michael Muchai (foldcf)

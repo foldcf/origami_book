@@ -15,6 +15,6 @@ I remember one of my first 'independent discoveries': the [spaceshuttle](./figur
 
 While in high school, I started to look for instructions online, for example, "how to fold a paper crane, swan, elephant...", and then memorizing the steps in the blogs I found. I didn't have a phone then, I used my dad's. Then I stumbled upon this origami fish that had scales (I can't remember the designer). I was fascinated: "You mean this is possible? Scales! This is so impressive!" I discovered tessellations within the next few weeks, but I didn't fold one until July 2020. Here is the first tessellation I ever folded:
 
-![[the_first_tessellation.jpg|350]]
+![[./the_first_tessellation.jpg|350]]
 
 I think tessellations are cool. 

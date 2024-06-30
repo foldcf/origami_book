@@ -17,17 +17,4 @@ While in high school, I started to look for instructions online, for example, "h
 
 ![[the_first_tessellation.jpg|350]]
 
-
-
-
-![the_first_tessellation.jpg](the_first_tessellation.jpg)
-<img src="./foldcf/the_first_tessellation.jpg" alt="the_first_tessellation" width="50%"/>
-
-![[the_first_tessellation.jpg|{width=50%}]]
-
-
-
-![[the_first_tessellation.jpg|the_first_tessellation.jpg]]{width=50%}
-
-
 I think tessellations are cool. 

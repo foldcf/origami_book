@@ -11,4 +11,5 @@
 5. You know how to fold the basic twists:
 
 	- Open and closed triangle twists
+
 	- Open and closed hexagon twists

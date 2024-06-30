@@ -1,6 +1,6 @@
 # ABOUT THE AUTHOR
 
-Michael Muchai (b. 1999) | email: foldcf@gmail.com | instagram: [@foldcf](https://www.instagram.com/foldcf?igsh=OHp5N3VmdXdzenA4 | Nakuru, Kenya
+Michael Muchai (b. 1999) | email: foldcf@gmail.com | instagram: [@foldcf](https://www.instagram.com/foldcf?igsh=OHp5N3VmdXdzenA4) | Nakuru, Kenya
 
 ***
 

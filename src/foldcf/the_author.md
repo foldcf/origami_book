@@ -1,14 +1,10 @@
 # ABOUT THE AUTHOR
 
-Michael Muchai (b. 1999)
-email: foldcf@gmail.com ; 
-instagram: [@foldcf](https://www.instagram.com/foldcf?igsh=OHp5N3VmdXdzenA4)
-Nakuru,
-Kenya
+Michael Muchai (b. 1999) | email: foldcf@gmail.com | instagram: [@foldcf](https://www.instagram.com/foldcf?igsh=OHp5N3VmdXdzenA4 | Nakuru, Kenya
 
 ***
 
-I fold paper;
+I fold paper.
 I also teach, sometimes.
 
 I used to fold origami when I was in primary and secondary school. I was not *that* serious. I mostly did the common models we taught each other — the boat, the plane, the frog etc. It was fun.

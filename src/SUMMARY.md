@@ -8,8 +8,9 @@
 - [Copyright](./foldcf/copyright.md)
 - [Acknowledgements](./foldcf/acknowledgements.md)
 - [What this book is and what it is not](./foldcf/what_this_book_is.md)
-- [The author](./foldcf/the_author.md)
+- [About the author](./foldcf/the_author.md)
 - [What I hope for](./foldcf/what_I_hope_for.md)
+- [My assumptions](./foldcf/assumptions.md)
 
 ***
 
@@ -22,8 +23,8 @@
 
 # FIGURATIVE
 
-- [A small boat](./figurative/a_small_boat.md)
 - [The space shuttle](./figurative/the_space_shuttle.md)
+- [A small boat](./figurative/a_small_boat.md)
 - [The dodecagon wheel](./figurative/the_dodecagon_wheel.md)
 - [A simple peacock](a_simple_peacock.md)
 - [Single-strip square spring](./figurative/single_strip_square_spring.md)
@@ -60,6 +61,7 @@
 - [Aletheia 3](./molecules/aletheia_3.md)
 - [Aletheia 4](./molecules/aletheia_4.md)
 - [Aletheia 5 and 6](./molecules/aletheia_5_and_6.md)
+- [Transit](./molecules/transit.md)
 
 ***
 
@@ -99,3 +101,11 @@
 
 - [The floating triangle fractal](./fractals/the_floating_triangle_fractal.md)
 - [Pilgrim 7](./fractals/pilgrim_7.md)
+
+***
+
+# CLOSING REMARKS
+
+- [Closing remarks](./closing_remarks/closing_remarks.md)
+
+***

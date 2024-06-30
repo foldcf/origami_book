@@ -1,10 +1,12 @@
-THE AUTHOR
+# ABOUT THE AUTHOR
 
-Michael Muchai (b. 1999); 
-from Nakuru, Kenya
-
-email: foldcf@gmail.com   |   
+Michael Muchai (b. 1999)
+email: foldcf@gmail.com ; 
 instagram: [@foldcf](https://www.instagram.com/foldcf?igsh=OHp5N3VmdXdzenA4)
+Nakuru,
+Kenya
+
+***
 
 I fold paper;
 I also teach, sometimes.
@@ -15,6 +17,6 @@ I remember one of my first 'independent discoveries': the space shuttle. I made 
 
 While in high school, I started to look for instructions online, for example, "how to fold a paper crane, swan, elephant...", and then memorizing the steps. I didn't have a phone then, I used my dad's. Then I stumbled upon this origami fish that had scales (I can't remember the designer.) I was impressed and fascinated. I discovered tessellations within the next few weeks, but I didn't fold one until July 2020. Here is the first tessellation I ever folded:
 
-<img src="./the_first_tessellation.jpg" alt="the_first_tessellation" width="50%" height="50%">  
+<div align="center"><img src="./the_first_tessellation.jpg" alt="the_first_tessellation" width="70%" height="70%"></div>
 
 I think tessellations are cool.

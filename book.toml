@@ -3,4 +3,5 @@ authors = ["foldcf"]
 language = "en"
 multilingual = false
 src = "src"
-title = "PAPER EXPERIMENTS"
+title = "MY PAPER FOLDING EXPERIMENTS"
+font = "11"

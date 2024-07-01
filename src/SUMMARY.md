@@ -14,15 +14,17 @@
 
 ***
 
-# [MATHS](./maths/maths_titlepage.md)
+# MATHS
 
+- [Section 1: Maths](./maths/maths_titlepage.md)
 - [A useful formula](./maths/a_useful_formula.md)
 - [Free from the margins](./maths/free_from_the_margins.md)
 
 ***
 
-# [FIGURATIVE MODELS](./figurative/figurative_titlepage.md)
+# FIGURATIVE MODELS
 
+- [Section 2: Figurative models](./figurative/figurative_titlepage.md)
 - [The space shuttle](./figurative/the_space_shuttle.md)
 - [A small boat](./figurative/a_small_boat.md)
 - [The dodecagon wheel](./figurative/the_dodecagon_wheel.md)
@@ -34,8 +36,9 @@
 
 ***
 
-# [MOLECULES](./molecules/molecules_titlepage.md)
+# MOLECULES
 
+- [Section 3: Molecules](./molecules/molecules_titlepage.md)
 - [The Floating Triangle 1](./molecules/the_floating_triangle_1.md)
 - [The Floating Triangle 2](./molecules/the_floating_triangle_2.md)
 - [Rewind 1 to 5](./molecules/rewind_1_to_5.md)
@@ -65,8 +68,9 @@
 
 ***
 
-# [TESSELLATIONS](./tessellations/tessellations_titlepage)
+# TESSELLATIONS
 
+- [Section 4: Tessellations](./tessellations/tessellations_titlepage.md)
 - [A simple face](./tessellations/a_simple_face.md)
 - [Petals](./tessellations/petals.md)
 - [Six walls](./tessellations/six_walls.md)
@@ -97,8 +101,9 @@
 
 ***
 
-# [FRACTALS](./fractals/fractals_titlepage.md)
+# FRACTALS
 
+- [Section 5: Fractals](./fractals/fractals_titlepage.md)
 - [The floating triangle fractal](./fractals/the_floating_triangle_fractal.md)
 - [Pilgrim 7](./fractals/pilgrim_7.md)
 

@@ -4,7 +4,7 @@
 
 2. You are interested in tessellations.
  
-3. You know how to read crease pattern.
+3. You know how to read crease patterns.
 
 4. You know how to prepare a triangular grid.
 

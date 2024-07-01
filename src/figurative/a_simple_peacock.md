@@ -1,1 +1,11 @@
 # A SIMPLE PEACOCK
+
+## ABOUT THE MODEL
+
+
+
+## STEPS
+
+
+
+## GALLERY

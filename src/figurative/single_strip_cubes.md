@@ -1,1 +1,11 @@
 # SINGLE-STRIP CUBES
+
+## ABOUT THE MODEL
+
+
+
+## STEPS
+
+
+
+## GALLERY

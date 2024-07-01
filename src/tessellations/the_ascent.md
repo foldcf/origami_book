@@ -1,1 +1,11 @@
 # THE ASCENT
+
+## ABOUT THE TESSELLATION
+
+
+
+## STEPS
+
+
+
+## GALLERY

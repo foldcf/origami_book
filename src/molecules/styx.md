@@ -1,1 +1,11 @@
 # STYX
+
+## ABOUT THE MOLECULE
+
+
+
+## STEPS
+
+
+
+## GALLERY

@@ -1,1 +1,11 @@
 # LET'S GO HOME
+
+## ABOUT THE TESSELLATION
+
+
+
+## STEPS
+
+
+
+## GALLERY

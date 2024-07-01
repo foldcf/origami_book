@@ -1,1 +1,11 @@
 # ALETHEIA 4
+
+## ABOUT THE MOLECULE
+
+
+
+## STEPS
+
+
+
+## GALLERY

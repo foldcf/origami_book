@@ -1,1 +1,11 @@
 # PILGRIM 7
+
+## ABOUT THE MODEL
+
+
+
+## STEPS
+
+
+
+## GALLERY

@@ -1,1 +1,11 @@
 # THE DODECAGON WHEEL
+
+## ABOUT THE MODEL
+
+
+
+## STEPS
+
+
+
+## GALLERY

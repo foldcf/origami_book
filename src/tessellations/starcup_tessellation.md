@@ -1,1 +1,11 @@
 # STARCUP
+
+## ABOUT THE TESSELLATION
+
+
+
+## STEPS
+
+
+
+## GALLERY

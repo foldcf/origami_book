@@ -1,1 +1,11 @@
 # A SIMPLE FACE
+
+## ABOUT THE MODEL
+
+
+
+## STEPS
+
+
+
+## GALLERY

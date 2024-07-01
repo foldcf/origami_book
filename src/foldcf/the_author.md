@@ -15,4 +15,4 @@ While in high school, I started to look for instructions online, for example, "h
 
 <div align="center"><img src="./the_first_tessellation.jpg" alt="the_first_tessellation" width="70%" height="70%"></div>
 
-I think tessellations are cool.
+To date, I have folded more than 100 tessellations, sold some and taught paper folding both locally and internationally. I think tessellations are cool. It's always fun to teach and fold them.

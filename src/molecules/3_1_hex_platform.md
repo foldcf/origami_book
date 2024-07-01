@@ -1,1 +1,11 @@
 # 3-1 HEX PLATFORM
+
+## ABOUT THE MOLECULE
+
+
+
+## STEPS
+
+
+
+## GALLERY

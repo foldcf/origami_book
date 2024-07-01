@@ -1,1 +1,11 @@
 # WONDER 2
+
+## ABOUT THE TESSELLATION
+
+
+
+## STEPS
+
+
+
+## GALLERY

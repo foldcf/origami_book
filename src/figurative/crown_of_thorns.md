@@ -1,11 +1,11 @@
-# CROWN OF THORNS
+## CROWN OF THORNS
 
-## ABOUT THE MODEL
-
-
-
-## STEPS
+### ABOUT THE MODEL
 
 
 
-## GALLERY
+### STEPS
+
+
+
+### GALLERY

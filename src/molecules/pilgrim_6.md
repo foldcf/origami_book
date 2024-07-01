@@ -1,11 +1,11 @@
-# PILGRIM 6
+## PILGRIM 6
 
-## ABOUT THE MOLECULE
-
-
-
-## STEPS
+### ABOUT THE MOLECULE
 
 
 
-## GALLERY
+### STEPS
+
+
+
+### GALLERY

@@ -1,11 +1,11 @@
-# ALETHEIA 3
+## ALETHEIA 3
 
-## ABOUT THE MOLECULE
-
-
-
-## STEPS
+### ABOUT THE MOLECULE
 
 
 
-## GALLERY
+### STEPS
+
+
+
+### GALLERY

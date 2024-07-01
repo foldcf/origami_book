@@ -1,14 +1,14 @@
-# A SMALL BOAT
+## A SMALL BOAT
 
-## ABOUT THE MODEL
-
-
-
-## STEPS
+### ABOUT THE MODEL
 
 
 
-## GALLERY
+### STEPS
+
+
+
+### GALLERY
 
 
 

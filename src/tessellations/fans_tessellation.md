@@ -1,11 +1,11 @@
-# FANS
+## FANS
 
-## ABOUT THE TESSELLATION
-
-
-
-## STEPS
+### ABOUT THE TESSELLATION
 
 
 
-## GALLERY
+### STEPS
+
+
+
+### GALLERY

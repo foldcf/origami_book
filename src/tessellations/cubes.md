@@ -1,11 +1,11 @@
-# 'CUBES'
+## 'CUBES'
 
-## ABOUT THE TESSELLATION
-
-
-
-## STEPS
+### ABOUT THE TESSELLATION
 
 
 
-## GALLERY
+### STEPS
+
+
+
+### GALLERY
